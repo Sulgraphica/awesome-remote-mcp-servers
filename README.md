@@ -1275,6 +1275,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Per-stock sentiment scores, top signals, monthly recaps and the underlying mentions.
 - [Quidli Connect](https://connect.quid.li) `https://mcp.connect.quid.li`
   🔓 - Resolve social handles to EVM and Solana wallets, score onchain reputation and send USDC.
+- [Radikabunavi](https://radikabunavi.com/mcp-service) `https://radikabunavi.com/mcp`
+  [![Radikabunavi MCP connector](https://glama.ai/mcp/connectors/com.radikabunavi/japan-stock-edinet/badges/score.svg)](https://glama.ai/mcp/connectors/com.radikabunavi/japan-stock-edinet)
+  🔐 - Japanese listed-company data from EDINET and TDnet: financials, 6-axis score, ideal price, DCF, screening.
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
   [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
   🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD invoices against EN 16931.
